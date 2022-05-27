@@ -1,6 +1,6 @@
 import profilePic from '../images/tom_profile.jpeg';
 
-function Profile() {
+function Info() {
   return (
     <header class="header">
         <img src={profilePic} alt="profile" className="img"></img>
@@ -13,4 +13,4 @@ function Profile() {
   );
 }
 
-export default Profile;
+export default Info;

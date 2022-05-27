@@ -1,6 +1,7 @@
 import React from "react";
-import Profile from "./components/Profile";
-import Main from "./components/Main";
+import Profile from "./components/Info";
+import About from "./components/About";
+import Interest from "./components/Interest";
 import Footer from "./components/Footer";
 
 function App() {
